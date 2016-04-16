@@ -1,19 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
-  
+  <title>Breeze&#39;s blog</title>
+  <subtitle>Talk is cheap,show me the code</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-04-15T14:06:31.570Z</updated>
+  <updated>2016-04-16T10:49:59.179Z</updated>
   <id>http://yoursite.com/</id>
   
-  <author>
-    <name>John Doe</name>
-    
-  </author>
-  
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>相信未来</title>
+    <link href="http://yoursite.com/2016/04/16/hello/"/>
+    <id>http://yoursite.com/2016/04/16/hello/</id>
+    <published>2016-04-16T04:16:25.000Z</published>
+    <updated>2016-04-16T10:49:59.179Z</updated>
+    
+    <content type="html">&lt;pre&gt;&lt;code&gt;#相信未来
+当蜘蛛网无情地查封了我的炉台
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;　　当灰烬的余烟叹息着贫困的悲哀&lt;br&gt;　　我依然固执地铺平失望的灰烬&lt;br&gt;　　用美丽的雪花写下：相信未来&lt;br&gt;　　&lt;br&gt;　　当我的紫葡萄化为深秋的露水&lt;br&gt;　　当我的鲜花依偎在别人的情怀&lt;br&gt;　　我依然固执地用凝霜的枯藤&lt;br&gt;　　在凄凉的大地上写下：相信未来&lt;br&gt;　　&lt;br&gt;　　我要用手指那涌向天边的排浪&lt;br&gt;　　我要用手掌那托住太阳的大海&lt;br&gt;　　摇曳着曙光那枝温暖漂亮的笔杆&lt;br&gt;　　用孩子的笔体写下：相信未来&lt;br&gt;　　&lt;br&gt;　　我之所以坚定地相信未来&lt;br&gt;　　是我相信未来人们的眼睛&lt;br&gt;　　她有拨开历史风尘的睫毛&lt;br&gt;　　她有看透岁月篇章的瞳孔&lt;br&gt;　　&lt;br&gt;　　不管人们对于我们腐烂的皮肉&lt;br&gt;　　那些迷途的惆怅、失败的苦痛&lt;br&gt;　　是寄予感动的热泪、深切的同情&lt;br&gt;　　还是给以轻蔑的微笑、辛辣的嘲讽&lt;br&gt;　　&lt;br&gt;　　我坚信人们对于我们的脊骨&lt;br&gt;　　那无数次的探索、迷途、失败和成功&lt;br&gt;　　一定会给予热情、客观、公正的评定&lt;br&gt;　　是的，我焦急地等待着他们的评定&lt;br&gt;　　&lt;br&gt;　　朋友，坚定地相信未来吧&lt;br&gt;　　相信不屈不挠的努力&lt;br&gt;　　相信战胜死亡的年轻&lt;br&gt;　　相信未来、热爱生命&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;pre&gt;&lt;code&gt;#相信未来
+当蜘蛛网无情地查封了我的炉台
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;　　当灰烬的余烟叹息着贫困的悲哀&lt;br&gt;　　我依然固执地铺平失望的灰烬&lt;br&gt;　　用美丽的雪花写下：相信未来&lt;br&gt;　　&lt;br&gt;　　当我的紫葡萄化为深秋的露水&lt;br&gt;　　当我的鲜花依偎
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
