@@ -5,31 +5,66 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-04-16T10:49:59.179Z</updated>
+  <updated>2016-05-31T11:35:24.719Z</updated>
   <id>http://yoursite.com/</id>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Start again</title>
+    <link href="http://yoursite.com/2016/05/31/Start-again/"/>
+    <id>http://yoursite.com/2016/05/31/Start-again/</id>
+    <published>2016-05-31T11:08:27.000Z</published>
+    <updated>2016-05-31T11:35:24.719Z</updated>
+    
+    <content type="html">&lt;p&gt;前端学习的道路总是很坎坷，没有完整的时间，这段时间看了这块知识，没过多久就忘了。&lt;br&gt;时间不等人，现在开始要及时总结与回顾，学习js的脚步也得加快了，加油~&lt;/p&gt;
+&lt;p&gt;这里罗列一些最近想做的事情，做个提醒吧&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;读书：《JavaScript高级程序技术》&lt;/li&gt;
+&lt;li&gt;去年百度前端学院的题目跟着做一做&lt;/li&gt;
+&lt;li&gt;读技术博客的时间记得总结，现阶段关注html和css部分的内容，注意总结与回顾&lt;/li&gt;
+&lt;li&gt;暑假一定要搭个个网出来&lt;/li&gt;
+&lt;li&gt;不要忘记数据结构，还有Leetcode是个什么鬼，好像也得去认识一下，要是没时间做到&lt;br&gt;这些的话，起码刷刷牛客网吧&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;这里是结尾吗？&quot;&gt;&lt;a href=&quot;#这里是结尾吗？&quot; class=&quot;headerlink&quot; title=&quot;这里是结尾吗？&quot;&gt;&lt;/a&gt;这里是结尾吗？&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;慷慨付出的，便是经常得到的&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;前端学习的道路总是很坎坷，没有完整的时间，这段时间看了这块知识，没过多久就忘了。&lt;br&gt;时间不等人，现在开始要及时总结与回顾，学习js的脚步也得加快了，加油~&lt;/p&gt;
+&lt;p&gt;这里罗列一些最近想做的事情，做个提醒吧&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;读书：《JavaScript高级程
+    
+    </summary>
+    
+    
+      <category term="博客" scheme="http://yoursite.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
   
   <entry>
     <title>相信未来</title>
     <link href="http://yoursite.com/2016/04/16/hello/"/>
     <id>http://yoursite.com/2016/04/16/hello/</id>
     <published>2016-04-16T04:16:25.000Z</published>
-    <updated>2016-04-16T10:49:59.179Z</updated>
+    <updated>2016-05-31T11:19:28.321Z</updated>
     
-    <content type="html">&lt;pre&gt;&lt;code&gt;#相信未来
-当蜘蛛网无情地查封了我的炉台
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;　　当灰烬的余烟叹息着贫困的悲哀&lt;br&gt;　　我依然固执地铺平失望的灰烬&lt;br&gt;　　用美丽的雪花写下：相信未来&lt;br&gt;　　&lt;br&gt;　　当我的紫葡萄化为深秋的露水&lt;br&gt;　　当我的鲜花依偎在别人的情怀&lt;br&gt;　　我依然固执地用凝霜的枯藤&lt;br&gt;　　在凄凉的大地上写下：相信未来&lt;br&gt;　　&lt;br&gt;　　我要用手指那涌向天边的排浪&lt;br&gt;　　我要用手掌那托住太阳的大海&lt;br&gt;　　摇曳着曙光那枝温暖漂亮的笔杆&lt;br&gt;　　用孩子的笔体写下：相信未来&lt;br&gt;　　&lt;br&gt;　　我之所以坚定地相信未来&lt;br&gt;　　是我相信未来人们的眼睛&lt;br&gt;　　她有拨开历史风尘的睫毛&lt;br&gt;　　她有看透岁月篇章的瞳孔&lt;br&gt;　　&lt;br&gt;　　不管人们对于我们腐烂的皮肉&lt;br&gt;　　那些迷途的惆怅、失败的苦痛&lt;br&gt;　　是寄予感动的热泪、深切的同情&lt;br&gt;　　还是给以轻蔑的微笑、辛辣的嘲讽&lt;br&gt;　　&lt;br&gt;　　我坚信人们对于我们的脊骨&lt;br&gt;　　那无数次的探索、迷途、失败和成功&lt;br&gt;　　一定会给予热情、客观、公正的评定&lt;br&gt;　　是的，我焦急地等待着他们的评定&lt;br&gt;　　&lt;br&gt;　　朋友，坚定地相信未来吧&lt;br&gt;　　相信不屈不挠的努力&lt;br&gt;　　相信战胜死亡的年轻&lt;br&gt;　　相信未来、热爱生命&lt;/p&gt;
+    <content type="html">&lt;p&gt;当蜘蛛网无情地查封了我的炉台&lt;br&gt;当灰烬的余烟叹息着贫困的悲哀&lt;br&gt;我依然固执地铺平失望的灰烬&lt;br&gt;用美丽的雪花写下：相信未来&lt;br&gt;　　&lt;br&gt;当我的紫葡萄化为深秋的露水&lt;br&gt;当我的鲜花依偎在别人的情怀&lt;br&gt;我依然固执地用凝霜的枯藤&lt;br&gt;在凄凉的大地上写下：相信未来&lt;br&gt;　　&lt;br&gt;我要用手指那涌向天边的排浪&lt;br&gt;我要用手掌那托住太阳的大海&lt;br&gt;摇曳着曙光那枝温暖漂亮的笔杆&lt;br&gt;用孩子的笔体写下：相信未来&lt;br&gt;　　&lt;br&gt;我之所以坚定地相信未来&lt;br&gt;是我相信未来人们的眼睛&lt;br&gt;她有拨开历史风尘的睫毛&lt;br&gt;她有看透岁月篇章的瞳孔&lt;br&gt;　　&lt;br&gt;不管人们对于我们腐烂的皮肉&lt;br&gt;那些迷途的惆怅、失败的苦痛&lt;br&gt;是寄予感动的热泪、深切的同情&lt;br&gt;还是给以轻蔑的微笑、辛辣的嘲讽&lt;br&gt;　　&lt;br&gt;我坚信人们对于我们的脊骨&lt;br&gt;那无数次的探索、迷途、失败和成功&lt;br&gt;一定会给予热情、客观、公正的评定&lt;br&gt;是的，我焦急地等待着他们的评定&lt;br&gt;　　&lt;br&gt;朋友，坚定地相信未来吧&lt;br&gt;相信不屈不挠的努力&lt;br&gt;相信战胜死亡的年轻&lt;br&gt;相信未来、热爱生命&lt;/p&gt;
 </content>
     
     <summary type="html">
     
-      &lt;pre&gt;&lt;code&gt;#相信未来
-当蜘蛛网无情地查封了我的炉台
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;　　当灰烬的余烟叹息着贫困的悲哀&lt;br&gt;　　我依然固执地铺平失望的灰烬&lt;br&gt;　　用美丽的雪花写下：相信未来&lt;br&gt;　　&lt;br&gt;　　当我的紫葡萄化为深秋的露水&lt;br&gt;　　当我的鲜花依偎
+      &lt;p&gt;当蜘蛛网无情地查封了我的炉台&lt;br&gt;当灰烬的余烟叹息着贫困的悲哀&lt;br&gt;我依然固执地铺平失望的灰烬&lt;br&gt;用美丽的雪花写下：相信未来&lt;br&gt;　　&lt;br&gt;当我的紫葡萄化为深秋的露水&lt;br&gt;当我的鲜花依偎在别人的情怀&lt;br&gt;我依然固执地用凝霜的枯藤&lt;br&gt;在凄凉的大地上写下：相
     
     </summary>
     
+      <category term="blog" scheme="http://yoursite.com/categories/blog/"/>
+    
+    
+      <category term="博客" scheme="http://yoursite.com/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
