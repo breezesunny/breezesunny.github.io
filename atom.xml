@@ -5,10 +5,53 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-06-03T11:25:55.074Z</updated>
+  <updated>2016-06-05T15:16:03.466Z</updated>
   <id>http://yoursite.com/</id>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>静态页面阶段小结</title>
+    <link href="http://yoursite.com/2016/06/05/bfc/"/>
+    <id>http://yoursite.com/2016/06/05/bfc/</id>
+    <published>2016-06-05T14:27:27.000Z</published>
+    <updated>2016-06-05T15:16:03.466Z</updated>
+    
+    <content type="html">&lt;p&gt;　　写了一些静态页面了，遇到的问题还是蛮多的，想起来的值得记录一下，不然没过多久就又忘记了。&lt;/p&gt;
+&lt;h3 id=&quot;首先是BFC这个词语，下面是网上搜集到的一些相关知识&quot;&gt;&lt;a href=&quot;#首先是BFC这个词语，下面是网上搜集到的一些相关知识&quot; class=&quot;headerlink&quot; title=&quot;首先是BFC这个词语，下面是网上搜集到的一些相关知识&quot;&gt;&lt;/a&gt;首先是BFC这个词语，下面是网上搜集到的一些相关知识&lt;/h3&gt;&lt;p&gt;　　BFC(Block formatting context)直译为”块级格式化上下文”。它是一个独立的渲染区域，只有Block-level box参与， 它规定了内部的Block-level Box如何布局，并且与这个区域外部毫不相干。&lt;/p&gt;
+&lt;p&gt;　　BFC布局规则：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;内部的Box会在垂直方向，一个接一个地放置。&lt;/li&gt;
+&lt;li&gt;Box垂直方向的距离由margin决定。属于同一个BFC的两个相邻Box的margin会发生重叠&lt;/li&gt;
+&lt;li&gt;每个元素的margin box的左边， 与包含块border box的左边相接触(对于从左往右的格式化，否则相反)　　。即使存在浮动也是如此。&lt;/li&gt;
+&lt;li&gt;BFC的区域不会与float box重叠。&lt;/li&gt;
+&lt;li&gt;BFC就是页面上的一个隔离的独立容器，容器里面的子元素不会影响到外面的元素。反之也如此。&lt;/li&gt;
+&lt;li&gt;计算BFC的高度时，浮动元素也参与计算&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;　　哪些元素会生成BFC?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;根元素&lt;/li&gt;
+&lt;li&gt;float属性不为none&lt;/li&gt;
+&lt;li&gt;position为absolute或fixed&lt;/li&gt;
+&lt;li&gt;display为inline-block, table-cell, table-caption, flex, inline-flex&lt;/li&gt;
+&lt;li&gt;overflow不为visible&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;语义化标签的使用&quot;&gt;&lt;a href=&quot;#语义化标签的使用&quot; class=&quot;headerlink&quot; title=&quot;语义化标签的使用&quot;&gt;&lt;/a&gt;语义化标签的使用&lt;/h3&gt;&lt;p&gt;　　&lt;br&gt;　　比如header,footer,section,articlen,nav&lt;/p&gt;
+&lt;h3 id=&quot;定义列表标签的使用&quot;&gt;&lt;a href=&quot;#定义列表标签的使用&quot; class=&quot;headerlink&quot; title=&quot;定义列表标签的使用&quot;&gt;&lt;/a&gt;定义列表标签的使用&lt;/h3&gt;&lt;p&gt;　　一般只记得使用ul或ol,其实有一些场合是非常适合使用dl,dt,dd这个组合的，比如footer部分的分类链接列表。&lt;/p&gt;
+&lt;h3 id=&quot;css中的border-radius属性&quot;&gt;&lt;a href=&quot;#css中的border-radius属性&quot; class=&quot;headerlink&quot; title=&quot;css中的border-radius属性&quot;&gt;&lt;/a&gt;css中的border-radius属性&lt;/h3&gt;&lt;p&gt;　　border-radius 属性可以块级元素的背景设置为圆形。&lt;br&gt;　　例如有一个div是方形的，width=50px;height=50px;设置div{border-radius:25px;},则其背景变为圆形。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;　　写了一些静态页面了，遇到的问题还是蛮多的，想起来的值得记录一下，不然没过多久就又忘记了。&lt;/p&gt;
+&lt;h3 id=&quot;首先是BFC这个词语，下面是网上搜集到的一些相关知识&quot;&gt;&lt;a href=&quot;#首先是BFC这个词语，下面是网上搜集到的一些相关知识&quot; class=&quot;heade
+    
+    </summary>
+    
+    
+      <category term="Web" scheme="http://yoursite.com/tags/Web/"/>
+    
+  </entry>
   
   <entry>
     <title>如何理解Web语义化</title>
